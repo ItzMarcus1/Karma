@@ -12,9 +12,6 @@ import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
-/**
- * Created by marcus on 28-04-2016.
- */
 public class Core extends JavaPlugin implements Listener {
 
     private static Plugin plugin;
