@@ -1,0 +1,9 @@
+MySQL:
+  ip: "localhost"
+  database: "karma"
+  username: ""
+  password: ""
+Settings:
+  neededforstaff: 1000
+  neededformod: 5000
+  neededforadmin: 15000

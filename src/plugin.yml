@@ -1,0 +1,19 @@
+name: Karma
+main: me.itzmarcus.karma.Core
+version: 1.0
+
+commands:
+  karma:
+    description: Tjek en spiller's karma.
+  apply:
+    description: Apply
+  givekarma:
+    description: Giv en spiller karma
+  removekarma:
+    description: Tag karma fra en spiller.
+  setkarma:
+    description: Tag karma fra en spiller.
+  staff:
+    description: Tag karma fra en spiller.
+  set-karma-for-staff:
+    description: Command
